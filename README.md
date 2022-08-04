@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align="center">
+Hi~ 👀
+</h3>
 
-<!--
-**vuongcindy/vuongcindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+🔭 I’m currently working on MERN stack <br/>
+🌱 I’m currently learning more about React <br/>
+💬 Ask me about Kirara or BTS 💜 <br/>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vuongcindy/) <br/>
+😄 Pronouns: She/Her/Hers <br/>
+⚡ Fun fact: I have an unnecessary amount of memory space allocated to song lyrics <br/>
+
+[![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuongcindy)](https://github.com/vuongcindy/github-readme-stats)
+
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ --!>
