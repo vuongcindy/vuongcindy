@@ -3,7 +3,7 @@ Hi~ 👀
 </h3>
 
 
-🌱 I’m currently learning more about linked lists <br/>
+🌱 I’m currently learning Swift <br/>
 💬 Ask me about [Kirara](https://kirara.herokuapp.com/#/) <br/>
 😄 Pronouns: She/Her/Hers <br/>
 ⚡ Fun fact: I have an unnecessary amount of memory space allocated to song lyrics <br/>
