@@ -3,7 +3,7 @@ Hi~ 👀
 </h3>
 
 
-🌱 I’m currently learning React hooks <br/>
+🔭 I’m currently working on a solo MERN stack project <br/>
 💬 Ask me about [Kirara](https://kirara.herokuapp.com/#/) <br/>
 😄 Pronouns: She/Her/Hers <br/>
 ⚡ Fun fact: I have an unnecessary amount of memory space allocated to song lyrics <br/>
@@ -38,4 +38,4 @@ Hi~ 👀
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
  --!>
- <!-- 🔭 I’m currently working on polishing <br/> --!>
+ <!-- 🌱 I’m currently learning React hooks <br/> --!>
