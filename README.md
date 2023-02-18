@@ -32,10 +32,3 @@ Hi~ 👀
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/><br/>
-
-[![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuongcindy)](https://github.com/vuongcindy/github-readme-stats)
-
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
- --!>
- <!-- 🌱 I’m currently learning React hooks <br/> --!>
