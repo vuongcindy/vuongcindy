@@ -3,10 +3,10 @@ Hi~ 👀
 </h3>
 
 
-🔭 I’m currently learning React Native <br/>
+📚 I’m currently learning Python <br/>
 💬 Ask me about [Kirara](https://kirara.herokuapp.com/#/) <br/>
-😄 Pronouns: She/Her/Hers <br/>
-⚡ Fun fact: I have an unnecessary amount of memory space allocated to song lyrics <br/>
+💃🏻 Pronouns: She/Her/Hers <br/>
+⚡ Fun fact: I have an unnecessary amount of memory space allocated to song lyrics in different languages<br/>
 
 ### **Connect with me!**
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/vuongcindy/)
